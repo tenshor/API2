@@ -1,0 +1,37 @@
+{
+  "OrderID": 9876,
+  "Address": "Rio Neuquen 750",
+  "Status": "Ready",
+  "Articles": [
+    {
+      "Name": "Carne",
+      "Price": 18000,
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Alfajores",
+      "Price": 6500,
+      "Quantity": 6,
+      "Dangerous": false
+    },
+     {
+      "Name": "Lavandina",
+      "Price": 7800,
+      "Quantity": 3,
+      "Dangerous": true
+    },
+     {
+      "Name": "Mayonesa",
+      "Price": 4300,
+      "Quantity": 4,
+      "Dangerous": false
+    },
+     {
+      "Name": "Leche",
+      "Price": 10550,
+      "Quantity": 6,
+      "Dangerous": false
+    }
+  ]
+}
